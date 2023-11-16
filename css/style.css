@@ -139,3 +139,82 @@ font-style: normal;
 font-weight: 400;
 line-height: normal;
 }
+
+.first{
+  margin: 0 auto;
+  max-height: 233px;
+  height: 100%;
+  max-width: 235px;
+  width: 100%;
+}
+
+footer{
+  max-width: 1242px;
+  width: 100%;
+  max-height: 680px;
+  width: 100%;
+}
+
+.fot1{
+display: flex;
+justify-content: space-between;
+}
+
+
+.m9{
+  color: #636060;
+font-family: Helvetica;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-bottom: 9px;
+}
+
+.m8{
+  color: #010101;
+font-family: Helvetica;
+font-size: 28px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-bottom: 37px;
+}
+
+.m7{
+  color: #636060;
+font-family: Helvetica;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.mg{
+  max-width:286px;
+  width: 100%;
+max-height: 195px;
+height: 100%;
+}
+
+.tt{
+  margin-top: 23px;
+  color: #343232;
+  font-family: Helvetica;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.tkt{
+  margin-top:9px;
+  max-width: 286px;
+  width: 100%;
+  color: #636060;
+font-family: Helvetica;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
